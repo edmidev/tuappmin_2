@@ -1,6 +1,6 @@
 <!--footer -->
 <div class="footer">
-    <p class="mb-0">Conjuntos residenciales | Desarrollado por : <a href="https://www.jqagencia.com/" target="_blank">JQ AGENCIA</a>
+    <p class="mb-0">Conjuntos residenciales | Desarrollado por : <a href="#" target="_blank">GENIAL DEV</a>
     </p>
 </div>
 <!-- end footer -->
